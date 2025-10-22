@@ -23,5 +23,5 @@ Features Implemented:
 4. More Competition is created between students so that they can earn the credits.
 5. Student can request a leave from the teacher.
 6. Student can raise a complaint on any concerns like faculty, infra, etc.
-7. Teacher can  report the performance of the student and also can be visible by the parent.
+7. Teacher can  report the performance of the student and also can be visible by the parent
 
