@@ -1,6 +1,3 @@
-# ntg_final
-team name:the 4 developers
-team members:M.Manojkumar,M.vishnu vikas,M.karthik,M.venkat naik
 
 Primary Tech Stack:
 Backend
