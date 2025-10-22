@@ -25,5 +25,3 @@ Features Implemented:
 6. Student can raise a complaint on any concerns like faculty, infra, etc.
 7. Teacher can  report the performance of the student and also can be visible by the parent.
 
-Hosting link:
-https://eduportal-backend-d6va.onrender.com/
